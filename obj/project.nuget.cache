@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "piw2kTKE/6DVMN7pTFphFz7otxSBJz/IHI2ZwSTfo+ClB6jybV1w00FLx2KQEFklRBO+RgTwdTjpU07mrr0LCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rigel\\source\\repos\\XpxQuickTransfer\\XpxQuickTransfer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rigel\\.nuget\\packages\\csharp-xpx-chain-sdk\\0.6.2\\csharp-xpx-chain-sdk.0.6.2.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\dap.flatbuffers\\1.0.0\\dap.flatbuffers.1.0.0.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\flurl\\2.8.2\\flurl.2.8.2.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\flurl.http\\2.4.2\\flurl.http.2.4.2.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\guard.net\\1.2.0\\guard.net.1.2.0.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\portable.bouncycastle\\1.8.5\\portable.bouncycastle.1.8.5.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\system.reactive\\4.1.5\\system.reactive.4.1.5.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\rigel\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
